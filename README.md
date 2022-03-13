@@ -25,8 +25,8 @@ This is a solution to the [3-column preview card component challenge on Frontend
 Users should be able to:
 
 - View the optimal layout depending on their device's screen size
--- 375px
--- 1440pz
+  - 375px
+  - 1440px
 - See hover states for interactive elements
 
 ### Screenshot
