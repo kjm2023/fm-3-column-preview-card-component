@@ -37,7 +37,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution](https://kjm2023.github.io/fm-3-column-preview-card-component/)
+- Solution URL: [Solution](https://github.com/kjm2023/fm-3-column-preview-card-component.git)
 - Live Site URL: [Live site](https://kjm2023.github.io/fm-3-column-preview-card-component/)
 
 ## My process
