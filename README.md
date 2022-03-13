@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Screenshot
 
-![Desktop View](./1440px-view.jpg)
-![Mobile view](./mobile-screen-recording.mp4)
+![Desktop View](./1440px-view.png)
+![Mobile view](./mobile-screen-recording.mov)
 
 ### Links
 
