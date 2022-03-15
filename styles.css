@@ -106,9 +106,21 @@ button:active {
     color: var(--very-light-gray);
 }
 
+footer {
+    padding: 2%;
+}
+
 /* Media Queries */
 
-@media screen and (min-width: 1440px){
+@media screen and (min-width: 768px){
+    body {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        min-height: 100vh;
+    }
+    
     main {
         width: 70%;
         flex-direction: row;
