@@ -51,7 +51,7 @@ Users should be able to:
 
 ### Continued development
 
-Though the requirements focused on two viewports, I would like to add another so that the transition from mobile to desktop is a bit more seamless.
+I would like to enforce a min-width on when the flex direction is 'column' while still keeping the containter centered and give a min-width when the flex-direction is set to row.
 
 ### Useful resources
 
